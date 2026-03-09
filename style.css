@@ -1,3 +1,11 @@
 *{
     text-align: center;
 }
+
+section{
+    background-color: lightpink;
+    border: 2px solid palevioletred;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
